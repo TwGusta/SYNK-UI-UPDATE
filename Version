@@ -1,1 +1,13 @@
-1.0.0
+{
+  "version": "1.1.0",
+  "release_date": "2024-02-04",
+  "download_url": "https://github.com/SEU_USUARIO/SEU_REPO/releases/latest",
+  "changelog": [
+    "Corrigido bug no slide vertical",
+    "Adicionado suporte para animações de enter",
+    "Melhorias de performance"
+  ],
+  "min_version": "1.0.0",
+  "critical": false
+}
+
